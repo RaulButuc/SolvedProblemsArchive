@@ -32,7 +32,7 @@ A single line containing maximum value in the updated list.
 
 ## Explanation
 
-After first update list will be 100 100 0 0 0.
-After second update list will be 100 200 100 100 100.
-After third update list will be 100 200 200 200 100.
+After first update list will be 100 100 0 0 0.   
+After second update list will be 100 200 100 100 100.   
+After third update list will be 100 200 200 200 100.   
 So the required answer will be 200.
