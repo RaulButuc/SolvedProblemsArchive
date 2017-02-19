@@ -11,9 +11,9 @@ Figure A.1: Illustration of sample input number 3 together with the shortest rou
 The input consists of:
 
 * one line with one integer _n_ (3 ≤ _n_ ≤ 50), the number of vertices of the inner polygon;
-* _n_ lines, the _i_<sup>th</sup> of which contains two integers x_<sub>i</sub> and y_<sub>i</sub> (−5000 ≤ x_<sub>i</sub>, y_<sub>i</sub> ≤ 5000): the coordinates of the _i_<sup>th</sup> vertex of the inner polygon;
+* _n_ lines, the _i_<sup>th</sup> of which contains two integers _x_<sub>i</sub> and _y_<sub>i</sub> (−5000 ≤ _x_<sub>i</sub>, _y_<sub>i</sub> ≤ 5000): the coordinates of the _i_<sup>th</sup> vertex of the inner polygon;
 * one line with one integer _m_ (3 ≤ _m_ ≤ 50), the number of vertices of the outer polygon;
-* _m_ lines, the _i_<sup>th</sup> of which contains two integers x_<sub>i</sub> and y_<sub>i</sub> (−5000 ≤ x_<sub>i</sub>, y_<sub>i</sub> ≤ 5000): the coordinates of the _i_<sup>th</sup> vertex of the outer polygon;
+* _m_ lines, the _i_<sup>th</sup> of which contains two integers _x_<sub>i</sub> and _y_<sub>i</sub> (−5000 ≤ _x_<sub>i</sub>, _y_<sub>i</sub> ≤ 5000): the coordinates of the _i_<sup>th</sup> vertex of the outer polygon;
 
 For both polygons, the vertices are given in counterclockwise order. The borders of the two polygons do not intersect or touch each other.
 
