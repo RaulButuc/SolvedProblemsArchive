@@ -11,7 +11,7 @@ Note from the organizer: the NWERC indoorienteering race for this year has been 
 The input consists of:
 
 * one line with two integers _n_ (2 ≤ _n_ ≤ 14) and _L_ (1 ≤ _L_ ≤ 1015), the number of control points and the desired length of the race, respectively;
-* _n_ lines with _n_ integers each. The _j_<sup>th</sup> integer on the _i_<sup>th</sup> line, _d_<sub>ij</sub> , denotes the distance between control point _i_ and _j_ (1 ≤ dij ≤ _L_ for _i_ ≤ j, and _d_<sub>ii</sub> = 0). For all 1 ≤ _i_, _j_, _k_ ≤ _N_ it is the case that _d_<sub>ij</sub> = _d_<sub>ji</sub> and _d_<sub>ij</sub> ≤ _d_<sub>ik</sub> + _d_<sub>kj</sub> .
+* _n_ lines with _n_ integers each. The _j_<sup>th</sup> integer on the _i_<sup>th</sup> line, _d_<sub>ij</sub> , denotes the distance between control point _i_ and _j_ (1 ≤ _d_<sub>ij</sub> ≤ _L_ for _i_ ≤ _j_, and _d_<sub>ii</sub> = 0). For all 1 ≤ _i_, _j_, _k_ ≤ _N_ it is the case that _d_<sub>ij</sub> = _d_<sub>ji</sub> and _d_<sub>ij</sub> ≤ _d_<sub>ik</sub> + _d_<sub>kj</sub> .
 
 There may be several knapsacks stacked on top of each other in the same slot, but Gerald can still only pick up one knapsack at a time.
 
